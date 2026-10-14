@@ -1,0 +1,6 @@
+{
+  "name": "Vela Tech Flagship Store",
+  "description": "Premium destination for precision-engineered laptops, flagship smartphones, and high-fidelity handsfree audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
